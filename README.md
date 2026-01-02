@@ -1,4 +1,4 @@
-# AIML Projects Repository
+# AIML Projects
 
 ## Overview
 
